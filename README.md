@@ -1,4 +1,4 @@
-# Hadia-Zafar-CV
+# Advanced Programming & Customizing GIS, Assignment 02
 This repository contains my professional one-page CV created using Markdown. It highlights my educational background, professional experience, skills, and hobbies.
 ---
 ## Contents
