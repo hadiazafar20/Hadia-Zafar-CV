@@ -2,8 +2,8 @@
 This repository contains my professional one-page CV created using Markdown. It highlights my educational background, professional experience, skills, and hobbies.
 ---
 ## Contents
-- **CV.md**: A concise and well-structured CV in Markdown format.
-- **Topics Covered**:
+1. **Hadia Zafar CV.md**
+2. **Topics Covered**:
   - Contact Information
   - Career Objective
   - Education 
